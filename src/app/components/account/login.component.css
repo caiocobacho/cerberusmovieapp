@@ -1,0 +1,52 @@
+
+
+.app-container {
+	height: 100vh;
+	width: 100vw;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	background-color: #a4508b;
+	background-image: linear-gradient(326deg, #e90000 0%, #020202 74%);
+	
+	font-size: larger;
+}
+
+img{
+
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+.login-card{
+	margin: auto;
+    margin-top: 15%;
+}
+
+
+
+ .login-container{
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	
+
+	font-family: 'BebasNeue-Regular' !important; 
+	font-size: 64px;
+	color: red;
+
+}
+.h1{
+	
+	font-size: 64px;
+	color: red;
+}
+
+.card{
+    margin: auto;
+    margin-top: 25%;
+    margin-right: 45%;
+		
+	
+}
